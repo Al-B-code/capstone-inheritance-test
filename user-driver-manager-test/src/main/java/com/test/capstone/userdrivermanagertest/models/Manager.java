@@ -27,5 +27,5 @@ public class Manager extends User{
         this.managerProperty = managerProperty;
     }
 
-
+    //
 }
